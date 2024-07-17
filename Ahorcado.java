@@ -48,7 +48,7 @@ public class Ahorcado {
 			}
 		}
 		if(!adivinada) {
-			System.out.println("!GAME OVER¡");
+			System.out.println("!GAME OVER¡ Perdiste");
 		}
 		sc.close();
 		}
